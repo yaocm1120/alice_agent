@@ -1,1 +1,1 @@
-# alice_agent
+目标，做一个全ai手写的轻量化ai agent
