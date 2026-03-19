@@ -1,0 +1,14 @@
+{
+  "name": "alice_agent",
+  "version": "1.0.0",
+  "description": "轻量化 AI Agent",
+  "type": "module",
+  "main": "src/llm/index.js",
+  "scripts": {
+    "test": "node examples/demo.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "openai": "^4.0.0"
+  }
+}
